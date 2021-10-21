@@ -40,3 +40,4 @@ To build an app that allows users to select music and create a custom spin class
 - Dips
 - Wide push ups
 - Crunches
+- Corners
